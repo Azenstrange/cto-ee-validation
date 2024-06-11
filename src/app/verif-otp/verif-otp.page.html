@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>OTP_verification</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label position="floating">OTP</ion-label>
+      <ion-input [(ngModel)]="otpcode"></ion-input>
+    </ion-item>
+  </ion-list>
+  <ion-button expand="full" (click)="validateotp()">Login</ion-button>
+</ion-content>
+

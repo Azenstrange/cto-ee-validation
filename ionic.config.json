@@ -1,0 +1,7 @@
+{
+  "name": "cto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
