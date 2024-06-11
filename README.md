@@ -12,13 +12,11 @@ To set up and test this application, follow the steps below:
 - npm (or yarn)
 - A Google account to generate `client_secret.json`
 
-1 - Clone the repository
+## 1 - Clone the repository
 
-2 - Install Dependencies
+## 2 - Install Dependencies
 
-3 - Create the .env File
-
-# .env file
+## 3 - Create the .env File
 
 # Secret for JWT
 JWT_SECRET=your_jwt_secret
