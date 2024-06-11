@@ -18,14 +18,14 @@ To set up and test this application, follow the steps below:
 
 ## 3 - Create the .env File
 
-# Secret for JWT
+### Secret for JWT
 JWT_SECRET=your_jwt_secret
 
-4 - launch the localhost
+## 4 - launch the localhost
 
 cd backend
 node index.js
 
-5 - launch the front
+## 5 - launch the front
 
 ionic serve
